@@ -30,16 +30,16 @@ N/A
 
 ### Files
 The CTX-Encryption-Module module requires the following files:
-* [CTX-Encryption-Module Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Encryption-Module/releases/download/v1.0/CTX-Encryption-Module.studiopkg)
+* [CTX-Encryption-Module Studio Package](https://github.com/CortexProjectsDepartment/CTX-Encryption-Module/releases/download/v1.0/Encryption-Module.studiopkg)
 
 ## Support and Warranty 
 This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Encryption-Module/blob/master/CTX-Encryption-Module%20-%20Deployment%20Plan.pdf).
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexProjectsDepartment/CTX-Encryption-Module/blob/main/CTX-Encryption-Moudle%20-%20Deployment%20Plan.pdf).
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIntelligentAutomation/CTX-Encryption-Module/blob/master/CTX-Encryption-Module%20-%20User%20Guide.pdf). Configuring of the subtask's inputs and outputs are detailed in notes on the subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexProjectsDepartment/CTX-Encryption-Module/blob/main/CTX-Encryption-Module%20-%20User%20Guide.pdf). Configuring of the subtask's inputs and outputs are detailed in notes on the subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
