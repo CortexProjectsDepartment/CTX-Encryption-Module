@@ -2,10 +2,10 @@
 
 # CTX-Encryption-Module
 The module uses flows and subtasks to allow users to perform the following functionality:
-    * Encrypt file(s) with AES256 Encryption
-    * Decrypt file(s) with AES256 Encryption
-    * Encrypt file(s) with PGP Encryption
-    * Decrypt file(s) with PGP Encryption
+ - Encrypt file(s) with AES256 Encryption
+ - Decrypt file(s) with AES256 Encryption
+ - Encrypt file(s) with PGP Encryption
+ - Decrypt file(s) with PGP Encryption
 
 * The flow uses LivePortal to allow the user to interactively Encrypt/Decrypt file(s) using a choice between AES256 or PGP Encryption methods.
 * The subtasks allow the user to incorporate the encryption/decyrption functionality into their own flows.
